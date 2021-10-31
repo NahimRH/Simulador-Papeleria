@@ -1,0 +1,35 @@
+
+	Usuarios y contraseñas para probar el programa
+
+	
+	ADMINISTRADORES:
+	
+	Usuario:     Ana Paula
+	Contraseña:  Ana123
+
+	Usuario:     Nahim
+	Contraseña:  Nahim123
+
+	
+	VENDEDORES: 
+
+	Usuario:     Mario
+	Contraseña:  Mario123
+
+	Usuario:     Enzo
+	Contraseña:  Enzo123
+
+	Usuario:     Hector
+	Contraseña:  Hector123
+
+
+	CLIENTES:
+
+	Usuario:     Alameda
+	Contraseña:  Alameda123
+
+	Usuario:     Fulano
+	Contraseña:  Fulano123
+
+	Usuario:     Carlitos
+	Contraseña:  Carlitos31

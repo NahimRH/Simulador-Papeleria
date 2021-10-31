@@ -1,0 +1,45 @@
+C:\Users\Nahim\Desktop\ProyectoFinal_EQ04\ProyectoFinal_EQ04\bin\Debug\ProyectoFinal_EQ04.exe
+C:\Users\Nahim\Desktop\ProyectoFinal_EQ04\ProyectoFinal_EQ04\bin\Debug\ProyectoFinal_EQ04.pdb
+C:\Users\Nahim\Desktop\ProyectoFinal_EQ04\ProyectoFinal_EQ04\bin\Debug\Clases.dll
+C:\Users\Nahim\Desktop\ProyectoFinal_EQ04\ProyectoFinal_EQ04\bin\Debug\Clases.pdb
+C:\Users\Nahim\Desktop\ProyectoFinal_EQ04\ProyectoFinal_EQ04\obj\Debug\ProyectoFinal_EQ04.csprojAssemblyReference.cache
+C:\Users\Nahim\Desktop\ProyectoFinal_EQ04\ProyectoFinal_EQ04\obj\Debug\ProyectoFinal_EQ04.csproj.CoreCompileInputs.cache
+C:\Users\Nahim\Desktop\ProyectoFinal_EQ04\ProyectoFinal_EQ04\obj\Debug\ProyectoFinal_EQ04.csproj.CopyComplete
+C:\Users\Nahim\Desktop\ProyectoFinal_EQ04\ProyectoFinal_EQ04\obj\Debug\ProyectoFinal_EQ04.exe
+C:\Users\Nahim\Desktop\ProyectoFinal_EQ04\ProyectoFinal_EQ04\obj\Debug\ProyectoFinal_EQ04.pdb
+C:\Users\reymi\OneDrive\Escritorio\Proyecto POO\ProyectoFinal_EQ04\ProyectoFinal_EQ04\ProyectoFinal_EQ04\bin\Debug\ProyectoFinal_EQ04.exe
+C:\Users\reymi\OneDrive\Escritorio\Proyecto POO\ProyectoFinal_EQ04\ProyectoFinal_EQ04\ProyectoFinal_EQ04\bin\Debug\ProyectoFinal_EQ04.pdb
+C:\Users\reymi\OneDrive\Escritorio\Proyecto POO\ProyectoFinal_EQ04\ProyectoFinal_EQ04\ProyectoFinal_EQ04\bin\Debug\Clases.dll
+C:\Users\reymi\OneDrive\Escritorio\Proyecto POO\ProyectoFinal_EQ04\ProyectoFinal_EQ04\ProyectoFinal_EQ04\bin\Debug\Clases.pdb
+C:\Users\reymi\OneDrive\Escritorio\Proyecto POO\ProyectoFinal_EQ04\ProyectoFinal_EQ04\ProyectoFinal_EQ04\obj\Debug\ProyectoFinal_EQ04.csprojAssemblyReference.cache
+C:\Users\reymi\OneDrive\Escritorio\Proyecto POO\ProyectoFinal_EQ04\ProyectoFinal_EQ04\ProyectoFinal_EQ04\obj\Debug\ProyectoFinal_EQ04.csproj.CoreCompileInputs.cache
+C:\Users\reymi\OneDrive\Escritorio\Proyecto POO\ProyectoFinal_EQ04\ProyectoFinal_EQ04\ProyectoFinal_EQ04\obj\Debug\ProyectoFinal_EQ04.csproj.CopyComplete
+C:\Users\reymi\OneDrive\Escritorio\Proyecto POO\ProyectoFinal_EQ04\ProyectoFinal_EQ04\ProyectoFinal_EQ04\obj\Debug\ProyectoFinal_EQ04.exe
+C:\Users\reymi\OneDrive\Escritorio\Proyecto POO\ProyectoFinal_EQ04\ProyectoFinal_EQ04\ProyectoFinal_EQ04\obj\Debug\ProyectoFinal_EQ04.pdb
+C:\Users\Nahim\Desktop\ProyectoFinal_EQ04\ProyectoFinal_EQ04\ProyectoFinal_EQ04\bin\Debug\ProyectoFinal_EQ04.exe
+C:\Users\Nahim\Desktop\ProyectoFinal_EQ04\ProyectoFinal_EQ04\ProyectoFinal_EQ04\bin\Debug\ProyectoFinal_EQ04.pdb
+C:\Users\Nahim\Desktop\ProyectoFinal_EQ04\ProyectoFinal_EQ04\ProyectoFinal_EQ04\bin\Debug\Clases.dll
+C:\Users\Nahim\Desktop\ProyectoFinal_EQ04\ProyectoFinal_EQ04\ProyectoFinal_EQ04\bin\Debug\Clases.pdb
+C:\Users\Nahim\Desktop\ProyectoFinal_EQ04\ProyectoFinal_EQ04\ProyectoFinal_EQ04\obj\Debug\ProyectoFinal_EQ04.csprojAssemblyReference.cache
+C:\Users\Nahim\Desktop\ProyectoFinal_EQ04\ProyectoFinal_EQ04\ProyectoFinal_EQ04\obj\Debug\ProyectoFinal_EQ04.csproj.CoreCompileInputs.cache
+C:\Users\Nahim\Desktop\ProyectoFinal_EQ04\ProyectoFinal_EQ04\ProyectoFinal_EQ04\obj\Debug\ProyectoFinal_EQ04.csproj.CopyComplete
+C:\Users\Nahim\Desktop\ProyectoFinal_EQ04\ProyectoFinal_EQ04\ProyectoFinal_EQ04\obj\Debug\ProyectoFinal_EQ04.exe
+C:\Users\Nahim\Desktop\ProyectoFinal_EQ04\ProyectoFinal_EQ04\ProyectoFinal_EQ04\obj\Debug\ProyectoFinal_EQ04.pdb
+C:\Users\reymi\OneDrive\Escritorio\Proyecto POO\Proyecto final\ProyectoFinal_EQ04\ProyectoFinal_EQ04\ProyectoFinal_EQ04\bin\Debug\ProyectoFinal_EQ04.exe
+C:\Users\reymi\OneDrive\Escritorio\Proyecto POO\Proyecto final\ProyectoFinal_EQ04\ProyectoFinal_EQ04\ProyectoFinal_EQ04\bin\Debug\ProyectoFinal_EQ04.pdb
+C:\Users\reymi\OneDrive\Escritorio\Proyecto POO\Proyecto final\ProyectoFinal_EQ04\ProyectoFinal_EQ04\ProyectoFinal_EQ04\bin\Debug\Clases.dll
+C:\Users\reymi\OneDrive\Escritorio\Proyecto POO\Proyecto final\ProyectoFinal_EQ04\ProyectoFinal_EQ04\ProyectoFinal_EQ04\bin\Debug\Clases.pdb
+C:\Users\reymi\OneDrive\Escritorio\Proyecto POO\Proyecto final\ProyectoFinal_EQ04\ProyectoFinal_EQ04\ProyectoFinal_EQ04\obj\Debug\ProyectoFinal_EQ04.csprojAssemblyReference.cache
+C:\Users\reymi\OneDrive\Escritorio\Proyecto POO\Proyecto final\ProyectoFinal_EQ04\ProyectoFinal_EQ04\ProyectoFinal_EQ04\obj\Debug\ProyectoFinal_EQ04.csproj.CoreCompileInputs.cache
+C:\Users\reymi\OneDrive\Escritorio\Proyecto POO\Proyecto final\ProyectoFinal_EQ04\ProyectoFinal_EQ04\ProyectoFinal_EQ04\obj\Debug\ProyectoFinal_EQ04.csproj.CopyComplete
+C:\Users\reymi\OneDrive\Escritorio\Proyecto POO\Proyecto final\ProyectoFinal_EQ04\ProyectoFinal_EQ04\ProyectoFinal_EQ04\obj\Debug\ProyectoFinal_EQ04.exe
+C:\Users\reymi\OneDrive\Escritorio\Proyecto POO\Proyecto final\ProyectoFinal_EQ04\ProyectoFinal_EQ04\ProyectoFinal_EQ04\obj\Debug\ProyectoFinal_EQ04.pdb
+C:\Users\Nahim\Desktop\New folder\ProyectoFinal_EQ04\Codigo Fuente\ProyectoFinal_EQ04\ProyectoFinal_EQ04\bin\Debug\ProyectoFinal_EQ04.exe
+C:\Users\Nahim\Desktop\New folder\ProyectoFinal_EQ04\Codigo Fuente\ProyectoFinal_EQ04\ProyectoFinal_EQ04\bin\Debug\ProyectoFinal_EQ04.pdb
+C:\Users\Nahim\Desktop\New folder\ProyectoFinal_EQ04\Codigo Fuente\ProyectoFinal_EQ04\ProyectoFinal_EQ04\bin\Debug\Clases.dll
+C:\Users\Nahim\Desktop\New folder\ProyectoFinal_EQ04\Codigo Fuente\ProyectoFinal_EQ04\ProyectoFinal_EQ04\bin\Debug\Clases.pdb
+C:\Users\Nahim\Desktop\New folder\ProyectoFinal_EQ04\Codigo Fuente\ProyectoFinal_EQ04\ProyectoFinal_EQ04\obj\Debug\ProyectoFinal_EQ04.csprojAssemblyReference.cache
+C:\Users\Nahim\Desktop\New folder\ProyectoFinal_EQ04\Codigo Fuente\ProyectoFinal_EQ04\ProyectoFinal_EQ04\obj\Debug\ProyectoFinal_EQ04.csproj.CoreCompileInputs.cache
+C:\Users\Nahim\Desktop\New folder\ProyectoFinal_EQ04\Codigo Fuente\ProyectoFinal_EQ04\ProyectoFinal_EQ04\obj\Debug\ProyectoFinal_EQ04.csproj.CopyComplete
+C:\Users\Nahim\Desktop\New folder\ProyectoFinal_EQ04\Codigo Fuente\ProyectoFinal_EQ04\ProyectoFinal_EQ04\obj\Debug\ProyectoFinal_EQ04.exe
+C:\Users\Nahim\Desktop\New folder\ProyectoFinal_EQ04\Codigo Fuente\ProyectoFinal_EQ04\ProyectoFinal_EQ04\obj\Debug\ProyectoFinal_EQ04.pdb

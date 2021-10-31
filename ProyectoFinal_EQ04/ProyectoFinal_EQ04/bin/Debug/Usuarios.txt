@@ -1,0 +1,80 @@
+Ana Paula
+Flores Salinas
+Calle Falsa 123
+AnaPaulaFlores@gmail.com
+5511122233
+Ana123
+1
+Administrador
+Super Papelerías Insurgentes
+
+Nahim
+Rosas Hernández
+Calle No Verdadera 123
+NahimRosas@gmail.com
+5522233344
+Nahim123
+2
+Administrador
+Super Papelerías Tlalpan
+
+Mario
+Mendoza González
+Calle Soñada 123
+MarioMendoza@gmail.com
+5533344455
+Mario123
+3
+Vendedor
+Super Papelerías Coyoacán
+
+Enzo
+Valdés Zavala
+Calle Imaginaria 456
+EnzoValdesZavala@gmail.com
+5516134987
+Enzo123
+4
+Vendedor
+Super Papelerías Insurgentes
+
+Hector
+Licea Martinez
+Calle Inexistente 456
+HectorLiceaMartinez@gmail.com
+8894623365
+Hector123
+5
+Vendedor
+Super Papelerías Tlalpan
+
+Alameda
+Slim
+Calle Real 987
+AlamedaSlim@gmail.com
+7794658830
+Alameda123
+0
+Cliente
+Super Papelerías Coyoacán
+
+Fulano
+Pérez
+Calle 5 de Mayo 876
+FulanoPerez@gmail.com
+1122336655
+Fulano123
+0
+Cliente
+Super Papelerías Insurgentes
+
+Carlitos
+Lechuga
+Calle 1 segunda seccion
+miglobito@hotmail.com
+3123544412
+Carlitos31
+0
+Cliente
+Super Papelerías Tlalpan
+

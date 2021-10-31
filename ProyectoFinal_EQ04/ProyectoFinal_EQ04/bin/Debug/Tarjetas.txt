@@ -1,0 +1,21 @@
+Bancomer
+Crédito
+Visa
+1234567890123456
+Alameda Slim
+123
+
+Banamex
+Débito
+MasterCard
+0987654321098765
+Fulano Pérez
+456
+
+Banorte
+Vales
+American Express
+1029384756019283
+Carlitos Lechuga
+789
+

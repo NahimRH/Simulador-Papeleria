@@ -1,0 +1,324 @@
+Pluma Negra
+Pluma de Color Negro
+8
+15
+BIC001
+SP01001
+Super Papelerías Insurgentes
+Artículos de Escritorio
+
+Pluma Roja
+Pluma de Color Rojo
+8
+10
+BIC002
+SP010
+Super Papelerías Insurgentes
+Artículos De Escritorio
+
+Pluma Azul
+Pluma de Color Azul
+8
+9
+BIC003
+SP01003
+Super Papelerías Insurgentes
+Artículos de Escritorio
+
+Lápiz
+Lápiz #2
+4
+24
+SP001
+SP01004
+Super Papelerías Insurgentes
+Artículos De Escritorio
+
+Cuaderno Rayado
+Cuaderno Rayado
+23
+15
+NOR001
+SP01005
+Super Papelerías Insurgentes
+Cuadernos
+
+Cuaderno Cuadro Chico
+Cuaderno Cuadro 0.5 [cm]
+30
+2
+NOR002
+SP01006
+Super Papelerías Insurgentes
+Cuadernos
+
+Cuaderno Cuadro Grande
+Cuaderno Cuadro 1 [cm]
+30
+6
+NOR003
+SP01007
+Super Papelerías Insurgentes
+Cuadernos
+
+Tijeras
+Tijeras Punta Redondeada
+13
+9
+BAR001
+SP01008
+Super Papelerías Insurgentes
+Corte
+
+Cuter
+Cuter Sencillo
+21
+5
+CUT001
+SP01009
+Super Papelerías Insurgentes
+Corte
+
+Hoja Bond
+Hoja Tamaño Bond Blanca
+25
+300
+BON001
+SP01010
+Super Papelerías Insurgentes
+Papel
+
+Hoja Bond Color
+Hoja Tamaño Bond Colores Diversos
+15
+80
+BON002
+SP01011
+Super Papelerías Insurgentes
+Papel
+
+Cartulina Blanca
+Cartulina Blanca
+4
+20
+CAR001
+SP01012
+Super Papelerías Insurgentes
+Papel
+
+Pluma Negra
+Pluma de Color Negro
+8
+1
+BIC001
+SP02001
+Super Papelerías Tlalpan
+Artículos de Escritorio
+
+Pluma Roja
+Pluma de Color Rojo
+8
+1
+BIC002
+SP02002
+Super Papelerías Tlalpan
+Artículos De Escritorio
+
+Pluma Azul
+Pluma de Color Azul
+8
+1
+BIC003
+SP02003
+Super Papelerías Tlalpan
+Artículos De Escritorio
+
+Lápiz
+Lápiz #2
+4
+12
+SP001
+SP02004
+Super Papelerías Tlalpan
+Artículos De Escritorio
+
+Cuaderno Raya
+Cuaderno Rayado
+23
+6
+NOR001
+SP02005
+Super Papelerías Tlalpan
+Cuadernos
+
+Cuaderno Cuadro Chico
+Cuaderno Cuadro 0.5 [cm]
+30
+10
+NOR002
+SP02006
+Super Papelerías Tlalpan
+Cuadernos
+
+Cuaderno Cuadro Grande
+Cuaderno Cuadro 1cm
+30
+1
+NOR003
+SP02007
+Super Papelerías Tlalpan
+Cuadernos
+
+Tijeras
+Tijeras punta redondeada
+13
+4
+BAR001
+SP02008
+Super Papelerías Tlalpan
+Corte
+
+Cuter
+Cuter sencillo
+21
+1
+CUT001
+SP02009
+Super Papelerías Tlalpan
+Corte
+
+Hoja Bond
+Hoja tamaño Bond Blanca
+25
+120
+BON001
+SP02010
+Super Papelerías Tlalpan
+Papel
+
+Hoja Bond Color
+Hoja tamaño Bond Colores Diversos
+15
+33
+BON002
+SP02011
+Super Papelerías Tlalpan
+Papel
+
+Cartulina Blanca
+Cartulina Blanca
+4
+30
+CAR001
+SP02012
+Super Papelerías Tlalpan
+Papel
+
+Pluma Negra
+Pluma de Color Negro
+8
+3
+BIC001
+SP03001
+Super Papelerías Coyoacán
+Artículos de Escritorio
+
+Pluma Roja
+Pluma de color Rojo
+8
+5
+BIC002
+SP03002
+Super Papelerías Coyoacán
+Artículos De Escritorio
+
+Pluma Azul
+Pluma de color Azul
+8
+17
+BIC003
+SP03003
+Super Papelerías Coyoacán
+Artículos De Escritorio
+
+Lápiz
+Lápiz #2
+4
+2
+SP001
+SP03004
+Super Papelerías Coyoacán
+Artículos De Escritorio
+
+Cuaderno Raya
+Cuaderno Rayado
+23
+50
+NOR001
+SP03005
+Super Papelerías Coyoacán
+Cuadernos
+
+Cuaderno Cuadro Chico
+Cuaderno Cuadro 0.5cm
+30
+0
+NOR002
+SP03006
+Super Papelerías Coyoacán
+Cuadernos
+
+Cuaderno Cuadro Grande
+Cuaderno Cuadro 1cm
+30
+3
+NOR003
+SP03007
+Super Papelerías Coyoacán
+Cuadernos
+
+Tijeras
+Tijeras punta redondeada
+13
+0
+BAR001
+SP03008
+Super Papelerías Coyoacán
+Corte
+
+Cuter
+Cuter sencillo
+21
+0
+CUT001
+SP03009
+Super Papelerías Coyoacán
+Corte
+
+Hoja Bond
+Hoja tamaño Bond Blanca
+25
+11
+BON001
+SP03010
+Super Papelerías Coyoacán
+Papel
+
+Hoja Bond Color
+Hoja tamaño Bond Colores Diversos
+15
+3
+BON002
+SP03011
+Super Papelerías Coyoacán
+Papel
+
+Cartulina Blanca
+Cartulina Blanca
+4
+1
+CAR001
+SP03012
+Super Papelerías Coyoacán
+Papel
+
